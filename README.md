@@ -34,7 +34,6 @@ Bu uygulama, Spaceflight News API'sinden uzay uçuşları ile ilgili son haberle
 - **Kotlin**
 - **Jetpack Compose** (UI için)
 - **Retrofit** (API Entegrasyonu için)
-- **Room Database** (Veri depolama için, kullanılabilir fakat örnek projede yer almaz)
 - **Gson** (JSON verilerini işlemek için)
 
 ## Kurulum
